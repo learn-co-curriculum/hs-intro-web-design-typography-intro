@@ -1,6 +1,6 @@
 #Typography
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/byQy0w5vr-A" frameborder="0" allowfullscreen align="right"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/byQy0w5vr-A" frameborder="0" allowfullscreen"></iframe>
 
 It's really hard to relay tone with words. When you see a text or email written in all caps, you assume that person is shouting. Italics or bold makes you really pay attention. Without even realizing it, typography makes a huge impact on the way people perceive the words they're reading. 
 
