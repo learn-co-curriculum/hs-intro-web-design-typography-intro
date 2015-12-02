@@ -8,3 +8,5 @@ Think of typography as the first impression of your website. Let's be honest, pe
 
 Need more convincing that typography is super important? Check out [this article about the effects of typography](http://conversionxl.com/the-effects-of-typography-on-user-experience-conversions/).
 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-typography-intro' data-visibility='hidden'>View this lesson on Learn.co</a>
